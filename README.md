@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero]() and also Co-organizer of [GDG MAD]() (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Lynnen. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero]() and also Co-organizer of [GDG MAD]() (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
